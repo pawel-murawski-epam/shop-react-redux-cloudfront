@@ -156,7 +156,7 @@ export default function PageOrder() {
         enableReinitialize
         onSubmit={onChangeStatus}
       >
-        {(props: FormikProps<FormikValues>) => <Form {...props} />}
+        {((props: FormikProps<FormikValues>) => <Form {...props} />) as any}
       </Formik>
       <Typography variant="h6">
         Status history:
