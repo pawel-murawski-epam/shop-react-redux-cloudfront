@@ -1,5 +1,5 @@
-CloudFront URL (should show the main shop page): http://d160b92h7bdfgt.cloudfront.net/ <br />
-S3 link (should return 403 Access Denied error): https://pawel-murawski-epam.s3.eu-central-1.amazonaws.com/
+CloudFront URL (should show the main shop page): d3l8fboyydgxho.cloudfront.net <br />
+S3 link (should return 403 Access Denied error): https://pawel-murawski-epam-2.s3.eu-central-1.amazonaws.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
